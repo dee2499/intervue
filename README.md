@@ -189,13 +189,5 @@ chmod -R 775 bootstrap/cache
 - Role-based access control.
 - Secure file upload and storage handling.
 
-### Future Enhancements
-- Email Notifications: Automated emails for interview invitations and submission confirmations
-- Real-time Updates: WebSocket integration for instant notifications
-- Advanced Analytics: Detailed reporting on interview performance
-- Mobile Application: React Native or Flutter app for mobile access
-- AI-Powered Analysis: Automated analysis of video responses
-- Collaboration Features: Multiple reviewers for the same submission
-
 ### License
 - This project is open-source and available under the MIT License.
