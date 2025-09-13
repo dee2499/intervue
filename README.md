@@ -32,8 +32,8 @@ A Laravel-based clone of Intervue that enables asynchronous video interviews. Th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hireflix-clone.git
-   cd hireflix-clone
+   git clone https://github.com/dee2499/intervue.git
+   cd intervue
    ```
 2. **Install dependencies**
    ```bash
